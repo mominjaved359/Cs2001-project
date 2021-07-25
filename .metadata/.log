@@ -466,3 +466,54 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-07-25 12:30:04.979
 !MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:42:57.747
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:42:57.808
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:43:11.445
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-25 12:43:25.012
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-25 12:43:26.454
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:43:27.048
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:43:32.484
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:43:33.124
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:44:31.967
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:44:35.931
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:44:35.982
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:49:24.925
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:53:11.565
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:53:11.623
+!MESSAGE Has main method computation for project 'WebApp'

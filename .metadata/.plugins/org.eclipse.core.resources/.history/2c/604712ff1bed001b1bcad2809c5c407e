@@ -10,7 +10,7 @@ public class HomeController {
 	@RequestMapping("home")
 	public String home()
 	{
-		
+		//System.out.println("hi");
 		return "home.jsp";
 		
 	}
@@ -22,15 +22,5 @@ public class HomeController {
 		return "contact.jsp";
 		
 	}
-	
-	@RequestMapping("classes")
-	public String classes()
-	{
-		//System.out.println("hi");
-		return "classes.jsp";
-		
-	}
-	
-	
 
 }
