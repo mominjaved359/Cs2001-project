@@ -52,7 +52,7 @@
                         <a href="${contextPath}/home">Home</a>
                       </li>
                       <li><a href="${contextPath}/classes">Classes</a></li>
-                      <li><a href="about.html">About FitLife</a></li>
+                      <li><a href="${contextPath}/about">About FitLife</a></li>
                       <li><a href="${contextPath}/contact"> Contact</a></li>
                     </ul>
                   </div>
@@ -72,7 +72,7 @@
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
               <h2 class="caption mb-2">Enjoy With Us</h2>
-              <h1 class="">Momin's Fitness &amp; Diet Plans</h1>
+              <h1 class="">Momin's Fitness</h1>
             </div>
           </div>
         </div>

@@ -54,7 +54,7 @@
                         <a href="${contextPath}/home">Home</a>
                       </li>
                       <li><a href="${contextPath}/classes">Classes</a></li>
-                      <li><a href="about.html">About FitLife</a></li>
+                      <li><a href="${contextPath}/about">About FitLife</a></li>
                       <li><a href="${contextPath}/contact"> Contact</a></li>
                     </ul>
                   </div>
@@ -111,7 +111,7 @@
           <div class="col-md-4">
             <h3 class="footer-heading mb-4 text-white">About</h3>
             <p>This is a fitness blog which encourages everyone to change their lifestyle to a more healthier way through our classes and diet plans</p>
-            <p><a href="#" class="btn btn-primary pill text-white px-4">Read More</a></p>
+            <p><a href="${contextPath}/about" class="btn btn-primary pill text-white px-4">Read More</a></p>
           </div>
           
              
