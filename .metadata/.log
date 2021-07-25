@@ -550,3 +550,57 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-07-25 13:09:29.257
 !MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 13:38:05.438
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.eclipse.jface 2 0 2021-07-25 13:38:05.650
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-25 13:38:05.650
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@58ac6444,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d1184d0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-07-25 13:38:05.700
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 13:38:06.222
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 13:38:06.429
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 13:38:06.623
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 13:38:06.805
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-25 13:38:07.211
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KAIfuelf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-25 13:38:07.212
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.KAIfuelf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-25 13:38:07.213
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-25 13:38:07.214
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KAIfuelf => OK
+
+!ENTRY Activator 1 0 2021-07-25 13:38:07.643
+!MESSAGE Has main method computation for project 'WebApp'
