@@ -208,3 +208,261 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-07-24 13:41:24.463
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-07-24 14:10:57.414
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:10:57.587
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:11:00.501
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:14.829
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:14.830
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@a641d78[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:14.852
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-07-24 14:13:15.100
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:15.354
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-07-24 14:13:15.923
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:29.920
+!MESSAGE Boot LS startup time from start to initialized: 15030ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.375
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KAIfuelfisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.380
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.387
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.389
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.390
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KAIfuelf => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.430
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.446
+!MESSAGE buffering callback sts4.classpath.KAIfuelf WebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:30.448
+!MESSAGE executing callback sts4.classpath.KAIfuelf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:13:31.659
+!MESSAGE executing callback sts4.classpath.KAIfuelf SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-24 14:31:35.189
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:31:35.851
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:34:33.135
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:34:33.784
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:41:31.836
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:41:32.447
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:41:40.032
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:48:58.914
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:48:59.522
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-24 14:49:11.907
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-24 14:49:14.053
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:49:14.755
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:52:29.916
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:52:30.555
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-24 14:52:48.997
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-24 14:52:51.459
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:52:52.050
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:55:33.440
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:55:34.148
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:55:49.577
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:56:04.875
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:04.901
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:04.908
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:04.915
+!MESSAGE buffering callback sts4.classpath.KAIfuelf WebApp false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:04.915
+!MESSAGE executing callback sts4.classpath.KAIfuelf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:05.007
+!MESSAGE executing callback sts4.classpath.KAIfuelf SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-24 14:56:07.884
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 14:56:22.794
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:22.838
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:22.844
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:22.848
+!MESSAGE buffering callback sts4.classpath.KAIfuelf WebApp false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:22.849
+!MESSAGE executing callback sts4.classpath.KAIfuelf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 14:56:22.906
+!MESSAGE executing callback sts4.classpath.KAIfuelf SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-24 14:56:23.098
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 15:02:46.814
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 15:02:47.371
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 15:03:53.009
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 20:37:04.269
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 20:39:37.991
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 20:40:00.741
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-24 20:40:24.262
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 11:46:05.304
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 11:46:45.792
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 11:48:22.955
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 11:53:20.170
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:12:31.525
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:12:31.603
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:12:52.345
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:13:21.340
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:13:21.905
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:14:03.456
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:14:08.416
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:17:50.260
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:18:09.105
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:20:04.793
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:20:22.182
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:25:37.206
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:27:06.103
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:27:33.345
+!MESSAGE Has main method computation for project 'WebApp'
+
+!ENTRY Activator 1 0 2021-07-25 12:30:04.979
+!MESSAGE Has main method computation for project 'WebApp'
